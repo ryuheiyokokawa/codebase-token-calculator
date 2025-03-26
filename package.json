@@ -1,0 +1,14 @@
+{
+  "name": "codebase-token-calculator",
+  "version": "1.0.0",
+  "description": "Calculate tokens in a codebase for CAG vs RAG analysis",
+  "main": "token-calculator.js",
+  "scripts": {
+    "analyze": "node token-calculator.js"
+  },
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.7",
+    "ignore": "^5.2.4"
+  },
+  "packageManager": "yarn@3.2.4+sha256.ca1a380d840c676152fbf8635a82d838113fe77e1665466699a4e106df4930d2"
+}
