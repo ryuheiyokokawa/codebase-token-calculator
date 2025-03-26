@@ -1,6 +1,7 @@
 # Codebase Token Calculator
 
 This tool analyzes your JS/TS React frontend or Ruby on Rails codebase to calculate token counts, helping you decide between Context-Augmented Generation (CAG) vs Retrieval-Augmented Generation (RAG) approaches.
+Written by Claude really, I didn't do much.
 
 ## Features
 
